@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rich-react-website/static/css/main.a1963f6b.chunk.css",
+    "main.js": "/rich-react-website/static/js/main.b9ff4bab.chunk.js",
+    "main.js.map": "/rich-react-website/static/js/main.b9ff4bab.chunk.js.map",
+    "runtime-main.js": "/rich-react-website/static/js/runtime-main.a651c89f.js",
+    "runtime-main.js.map": "/rich-react-website/static/js/runtime-main.a651c89f.js.map",
+    "static/js/2.70ef7295.chunk.js": "/rich-react-website/static/js/2.70ef7295.chunk.js",
+    "static/js/2.70ef7295.chunk.js.map": "/rich-react-website/static/js/2.70ef7295.chunk.js.map",
+    "index.html": "/rich-react-website/index.html",
+    "precache-manifest.2b2672bbe40ab02982907d863d4acf65.js": "/rich-react-website/precache-manifest.2b2672bbe40ab02982907d863d4acf65.js",
+    "service-worker.js": "/rich-react-website/service-worker.js",
+    "static/css/main.a1963f6b.chunk.css.map": "/rich-react-website/static/css/main.a1963f6b.chunk.css.map",
+    "static/js/2.70ef7295.chunk.js.LICENSE.txt": "/rich-react-website/static/js/2.70ef7295.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a651c89f.js",
+    "static/js/2.70ef7295.chunk.js",
+    "static/css/main.a1963f6b.chunk.css",
+    "static/js/main.b9ff4bab.chunk.js"
+  ]
+}
